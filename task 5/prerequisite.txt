@@ -1,0 +1,11 @@
+Safety Tips
+Use strong, unique passwords for each account and enable two-factor authentication (2FA) wherever possible.
+Do not share OTPs, passwords, or UPI PINs with anyone—even if they claim to be from your bank. (UPI Safety)
+Always verify payment requests before approving them on apps like Google Pay or PhonePe. (UPI Safety)
+Avoid clicking on unknown links received via SMS, email, or social media—they may be phishing attempts.
+Download apps only from official stores like Google Play Store or Apple App Store.
+Check website security (HTTPS) before entering personal or financial details.
+Log out from shared/public computers and avoid saving passwords on them.
+Be cautious while using public Wi-Fi—avoid accessing banking or sensitive accounts on unsecured networks.
+Regularly update your phone and apps to protect against security vulnerabilities.
+Think before sharing on social media—limit personal information to prevent identity theft.
