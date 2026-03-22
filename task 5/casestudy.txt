@@ -1,0 +1,9 @@
+Case Study: UPI / Online Payment Fraud
+
+UPI (Unified Payments Interface) fraud is a rapidly growing cybercrime where attackers trick users into transferring money through digital payment apps. With the widespread use of platforms like Google Pay and PhonePe, such scams have become increasingly common.
+
+Typically, the fraud begins when a scammer contacts the victim via phone, SMS, or social media, pretending to be a bank official, customer support agent, or even a buyer/seller. First, they gain the victim’s trust by creating urgency or offering an attractive deal. Next, they send a “collect request” or a fake payment link. The victim is then instructed to approve the request or enter their UPI PIN, often under the false claim that they will receive money. In reality, entering the PIN authorizes a payment from the victim’s account to the scammer.
+
+These frauds usually target students, elderly individuals, and people unfamiliar with digital payment systems. Small business owners and online sellers are also common targets.
+
+The consequences can be severe, including immediate financial loss, emotional stress, and in some cases, compromised banking details. Recovery of lost money is often difficult if not reported quickly. This highlights the importance of digital awareness—users should never share their UPI PIN, approve unknown requests, or trust unsolicited calls. Staying informed and cautious is the best defense against such cybercrimes.
