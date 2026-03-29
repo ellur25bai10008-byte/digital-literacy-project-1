@@ -12,6 +12,7 @@ I  have learnt How to build portfolio and create accounts in different platforms
 I have entangled to learn different coding platforms and i have come across differnt competative courses and people in competetion . platforms like coderchef,hackerrank,leetcode and many more .
 link of google form:
 https://docs.google.com/forms/d/e/1FAIpQLScwj8T-O8blF4XVCs_uWHfkUE5t2mcBoI5GyZ-9Ji62KfDfXQ/viewform?usp=header
+excel sheet : https://docs.google.com/spreadsheets/d/1F8zaac7LZrNfcu31lxdneLFkgeDGZmzntWvIM9lGf0w/edit?resourcekey=&gid=177043148#gid=177043148
 #MODULE 4
 this is the most interesting part where i learnt to make importance of Email Etiquette,Guidelines of Email Etiquette,Email Etiquette-Structures and Formats,Work Place Etiquette...
 #MODULE 5
